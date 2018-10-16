@@ -1,7 +1,7 @@
 # 2018_Summer_1CGM_Programs
 
 ## What do the programs do?
-I coded these programs to find **1C-GM** or __1 Cycle Geometric Mean__ Graphs.
+I coded these programs (C++) to find **1C-GM** or __1 Cycle Geometric Mean__ Graphs.
 
 
 ## What is a 1C-GM Graph?
